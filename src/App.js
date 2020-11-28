@@ -19,7 +19,6 @@ export default function App() {
             userSelection: 2
         }];
 
-
     return (
         <Container>
             {seating?.map(({type, totalSeats, seatInARow, maxSelection, userSelection}) => {
