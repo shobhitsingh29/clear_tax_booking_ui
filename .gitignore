@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+/node_modules/
+.gitignore
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+README.md
+build/
+package-lock.json
+src/App.js
+src/components/seatList.jsx
+src/components/seats.jsx
+src/index.js
